@@ -60,4 +60,5 @@ main .right {
   padding: 1rem 2rem;
   font-size: 1.2rem;
   overflow: auto;
+  font-family: 'Inter', 'Segoe UI', 'Roboto', sans-serif;
 }
